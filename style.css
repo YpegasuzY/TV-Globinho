@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style: none;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
+header{
+    padding: 10vh;
+    background-color: black;
+}
+
+#menu{
+    display: flex;
+    justify-content: right;
+    flex-wrap: wrap;
+}
+
+#menu li{
+    margin-left: 20px;
+}
+#menu li a{
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+} 
+
+#menu li a:hover{
+    color: #D90F1A;
+    transition: 0.9s;
+}
+
+#sessao{
+    padding: 15rem;
+    background: linear-gradient(180deg, rgba(218,222,225,1) 0%, rgba(217,15,26,1) 74%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    padding: 10vh;
+    background-color: black;
+}
+
+footer img{
+    width: 18rem;
+}
